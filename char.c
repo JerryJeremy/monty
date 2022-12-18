@@ -29,7 +29,7 @@ void pchar_handler(stack_t **stack, unsigned int line_number)
 }
 
 /**
- * pstr_handler - handles the pstr instruction
+ * pstr_handler -is to handle the pstr instruction
  * @stack: double pointer to the stack to push to
  * @line_number: number of the line in the file
  */
